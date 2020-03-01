@@ -1,0 +1,8 @@
+body{
+    background-image: url(bg2.jpg);
+}
+.post{
+    display: inline-block; 
+    background-color: orange;
+    text-align: center;
+}
